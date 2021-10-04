@@ -1,0 +1,6 @@
+/* aidan bird 2021 */
+/*
+
+fix segfault caused by bad start/end inputs
+
+*/ 
